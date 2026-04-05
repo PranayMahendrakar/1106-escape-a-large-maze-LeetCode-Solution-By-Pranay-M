@@ -1,0 +1,3 @@
+# Activity Log
+
+- [2026-04-05T21:33:32Z] feat: add helper utility function
